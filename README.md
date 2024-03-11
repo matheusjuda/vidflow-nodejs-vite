@@ -1,54 +1,35 @@
-![Imagem de capa do curso. O título é "3519 - Node.js e terminal" e o subtítulo é "Dominando o ambiente de desenvolvimento front-end".](./thumb.png)
+<span align="center">
 
-# VidFlow
+## Hellooo Helloo World! 👋
 
-O VidFlow é uma plataforma de compartilhamento de vídeos.
+</span>
 
-![Captura de tela do Vidflow.](./vidflow.png)
+### 💡 Ideia do projeto:
 
-## 🔨 Funcionalidades do projeto
+Objetivo:
 
-Atualmente, o visual do projeto e sua funcionalidade de buscar em uma API pelas informações dos vídeos já estão prontos.
+-
 
-Agora, o time de desenvolvimento do VidFlow decidiu aplicar o uso de novas ferramentas que irão melhorar a qualidade do código do projeto, como o ESLint, Prettier, Axios e o Vite.
+-
 
-Para isso, aprenderemos a utilizar o **Node.js**, necessário para aplicar todas essas ferramentas.
+##
 
-## ✔️ Técnicas e tecnologias utilizadas
+### 🛠 Tecnologias utilizadas:
 
-- Node.js
-- NPM
-- Os pacotes ESLint, Prettier, JSON Server, Axios e Vite
-- Vercel
+- HTML 5
+- CSS 3
+- Javascript
 
-# Acesso ao Projeto
+##
 
-[Acesse o projeto publicado na Vercel](https://nodejs-vidflow-vite.vercel.app/).
+### 💻 Resultado:
 
-## Link do Figma
+- Acesse o jogo neste link [aqui]()!
 
-[Acesse o Figma do Vidflow](https://www.figma.com/file/a0crwitCtGmNIQW0RVIs5H/VidFlow-%7C-Curso-Js---Consumindo-dados-de-uma-API?node-id=0%3A1&mode=dev).
+http
 
-## 🛠️ Abrir e rodar o projeto
+##
 
-Para rodar esse projeto, você precisa ter o [Node.js](https://nodejs.org/) instalado.
+### 💬 Sugestões:
 
-Após baixar ou clonar este repositório, rode o seguinte comando para instalar as dependências do projeto:
-
-```bash
-npm install
-```
-
-Em seguida, disponibilize a API local de vídeos:
-
-```bash
-npm run api-local
-```
-
-Por fim, disponibilize o servidor de desenvolvimento do Vite:
-
-```bash
-npm run dev
-```
-
-E você conseguirá acessar o projeto em `http://localhost:5173/` no navegador.
+- Fico aberto a sugestões de melhoria e ideias, caso você tenha alguma basta me enviar uma mensagem no [LinkedIn](https://www.linkedin.com/in/matheus-ben-jud%C3%A1-972916235/).
