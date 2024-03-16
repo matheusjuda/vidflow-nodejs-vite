@@ -10,7 +10,7 @@
 
 Objetivo:
 
--Construir uma web pag de videos consumindo uma API
+- Construir uma web pag de videos consumindo uma API
 
 - Configurar um ambiente de desenvolvimento front-end usando Node
 
@@ -41,7 +41,6 @@ Objetivo:
 
 - Acesse o projeto neste link [aqui](https://vidflow-nodejs-vite.vercel.app/)!
 
-http
 
 ##
 
